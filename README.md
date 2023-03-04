@@ -22,7 +22,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jIPFIBU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <b> Create Resources </b> <br />
@@ -34,7 +34,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DSdjFEM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <b> Observe ICMP Traffic </b> <br />
@@ -55,7 +55,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lspVesb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <b> Observe SSh Traffic </b><br />
